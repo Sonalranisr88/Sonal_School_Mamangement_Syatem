@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.applet.*;
 
 
-public class sms extends Applet implements ActionListener {
+public class Main extends Applet implements ActionListener {
   String msg = "*****WELCOME TO SONAL SCHOOL MANAGEMENT*****";
   String msg2 = "";
 
